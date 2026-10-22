@@ -1,1 +1,2 @@
 print("cherry")
+print("kiwi")
